@@ -1,7 +1,4 @@
-Hello Everyone?
-How Are You?
+Hello everyone!
+How are you?
 Python
-Machine Learning
-NumPy
-Pandas
-AI Engineering
+Statistics
