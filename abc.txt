@@ -2,4 +2,5 @@ Hello Everyone?
 How Are You?
 Python
 Machine Learning
-Numpy
+NumPy
+Pandas
